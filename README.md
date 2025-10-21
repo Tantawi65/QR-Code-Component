@@ -24,3 +24,6 @@ Simply open `index.html` in your web browser to view the component.
 - `index.html` - Main HTML file
 - `images/` - Contains QR code image and favicon
 - `design/` - Design reference files
+
+## Deployment
+https://tantawi65.github.io/QR-Code-Component/
